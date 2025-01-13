@@ -25,16 +25,15 @@ The dataset contains Uber ride details with the following features:
 
 **Technologies Used**
 * Python Libraries:
+  - Pandas: Data manipulation and cleaning.
+  - NumPy: Numerical computations.
+  - Scikit-learn: Machine learning model training and evaluation.
+  - Gradio: Interactive model deployment.
 
-- Pandas: Data manipulation and cleaning.
-- NumPy: Numerical computations.
-- Scikit-learn: Machine learning model training and evaluation.
-- Gradio: Interactive model deployment.
 * Machine Learning Models:
-
-- Linear Regression.
-- Gradient Boosting (optional).
-- Random Forest (optional).
+  - Linear Regression.
+  - Gradient Boosting (optional).
+  - Random Forest (optional).
 
 
 **Usage Example**
